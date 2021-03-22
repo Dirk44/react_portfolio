@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.body {
+  background-image: url("./Images/abstract-black-white-bokeh-background_1962-1324.jpg");
+  background-size: cover;
+  
+}

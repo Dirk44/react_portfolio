@@ -1,62 +1,62 @@
 [
     {
-        "link": "assets/tile_1.jpeg",
-        "src": "assets/tile_1.jpeg",
+        "link": "../../Images/tile_1.jpeg",
+        "src": "/Images/tile_1.jpeg",
         "title": "Marble Subway Tile Shower"
     },
     {
-        "link": "assets/tile_2.jpeg",
-        "src": "assets/tile_2.jpeg",
+        "link": "../../Images/tile_2.jpeg",
+        "src": "../../Images/tile_2.jpeg",
         "title": "Mixed Tile Floor and Shower"
     },
     {
-        "link": "assets/tile_3.jpeg",
-        "src": "assets/tile_3.jpeg",
+        "link": "../../Images/tile_3.jpeg",
+        "src": "../../Images/tile_3.jpeg",
         "title": "Custom Niche"
     },
     {
-        "link": "assets/tile_4.jpeg",
-        "src": "assets/tile_4.jpeg",
+        "link": "../../Images/tile_4.jpeg",
+        "src": "../../Images/tile_4.jpeg",
         "title": "Mixed Tile Floor and Shower"
     },
     {
-        "link": "assets/tile_5.jpeg",
-        "src": "assets/tile_5.jpeg",
+        "link": "../../Images/tile_5.jpeg",
+        "src": "../../Images/tile_5.jpeg",
         "title": "Flawless Floors"
     },
     {
-        "link": "assets/tile_6.jpeg",
-        "src": "assets/tile_6.jpeg",
+        "link": "../../Images/tile_6.jpeg",
+        "src": "../../Images/tile_6.jpeg",
         "title": "Repurposed Subway Tile Backsplash"
     },
     {
-        "link": "assets/tile_7.jpeg",
-        "src": "assets/tile_7.jpeg",
+        "link": "../../Images/tile_7.jpeg",
+        "src": "../../Images/tile_7.jpeg",
         "title": "Classic Shower"
     },
     {
-        "link": "assets/tile_8.jpeg",
-        "src": "assets/tile_8.jpeg",
+        "link": "../../Images/tile_8.jpeg",
+        "src": "../../Images/tile_8.jpeg",
         "title": "Mitred Edge Niche"
     },
     {
-        "link": "assets/tile_9.jpeg",
-        "src": "assets/tile_9.jpeg",
+        "link": "../../Images/tile_9.jpeg",
+        "src": "../../Images/tile_9.jpeg",
         "title": "Classy Master"
     },
     {
-        "link": "assets/tile_10.jpeg",
-        "src": "assets/tile_10.jpeg",
+        "link": "../../Images/tile_10.jpeg",
+        "src": "../../Images/tile_10.jpeg",
         "title": "Full Tile Staircase"
     },
     {
-        "link": "assets/tile_11.jpeg",
-        "src": "assets/tile_11.jpeg",
+        "link": "../../Images/tile_11.jpeg",
+        "src": "../../Images/tile_11.jpeg",
         "title": "Kitchen Backsplash"
     },
     {
-        "link": "assets/tile_12.jpeg",
-        "src": "assets/tile_12.jpeg",
+        "link": "../../Images/tile_12.jpeg",
+        "src": "../../Images/tile_12.jpeg",
         "title": "Classy Master 2"
     }
 ]
