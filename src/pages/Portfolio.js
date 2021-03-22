@@ -2,7 +2,7 @@ import React from 'react';
 import PortfolioCard from "../components/PortfolioCard";
 import { Container, Row, Col } from "react-bootstrap";
 import webProjects from "../webProjects.json";
-import projectsTile from "../projectsTile.json";
+import projectsTile from "../projectsTile";
 
 
 export default function Portfolio() {
@@ -35,13 +35,13 @@ export default function Portfolio() {
                     </Col>
                 </Row>
                 <ul>
-                    {projectsTile.map(web => {
+                    {projectsTile.map(tile => {
                         return (
                             <PortfolioCard
-                                key={web.link}
-                                link={web.link}
-                                title={web.title}
-                                img={web.src}
+                                key={tile.link}
+                                link={tile.link}
+                                title={tile.title}
+                                img={tile.src}
                             />
                         )
                     })}

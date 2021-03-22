@@ -1,7 +1,7 @@
 [
     {
-        "link": "../../Images/tile_1.jpeg",
-        "src": "/Images/tile_1.jpeg",
+        "link": "./Images/tile_1.jpeg",
+        "src": "./Images/tile_1.jpeg",
         "title": "Marble Subway Tile Shower"
     },
     {

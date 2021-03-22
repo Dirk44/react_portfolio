@@ -1,5 +1,6 @@
 import React from 'react';
 import { Col } from "react-bootstrap";
+// import Images from "../../Images"
 
 export default function PortfolioCard(props) {
     return (

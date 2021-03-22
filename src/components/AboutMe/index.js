@@ -1,15 +1,15 @@
 import React from 'react';
+import "./style.css";
 import { Container, Row, Col, Card, Nav } from "react-bootstrap";
 import img from "../../Images/site.jpg";
 import insta from "../../Images/instagram.jpeg";
 import git from "../../Images/GitHub-logo.png";
 import linkedIn from "../../Images/LinkedIn-Button.png";
-import "./style.css";
 
 export default function AboutMe() {
     return (
         <div className="body">
-        <Container fluid>
+        <Container className="container">
             
             <Row noGutters={true}>
                 <Col md={12}>
@@ -23,6 +23,7 @@ export default function AboutMe() {
                 <Col md={8}>
                     <Card.Body>
                         <Card.Title>Derrick deVilliers</Card.Title>
+                        
                         <Card.Text>I was born in Lincoln City, Oregon. I am the second youngest out of 6 kids. I mostly grew
                         up in a small farm town in central Idaho, and all over Utah. I currently live in Asheville,
                         North Carolina with my girlfriend Ashley, and our 2 year old son named Aeson. I enjoy

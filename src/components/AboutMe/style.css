@@ -4,4 +4,24 @@
     flex-direction: row;
     }
 
-   
+    html{
+        background-image: url("https://img.freepik.com/free-photo/abstract-black-white-bokeh-background_1962-1324.jpg?size=626&ext=jpg");
+        background-size: cover;
+        
+    }
+
+    .container{
+    
+    background-color: rgb(66, 66, 66);
+    color: white;
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-bottom: 85px;
+    content: inherit;
+    height: 80%;
+    width: 75%;
+    }
+
+    .row{
+        justify-content: center;
+    }
