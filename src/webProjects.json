@@ -1,0 +1,32 @@
+[
+    {
+        "link": "https://dirk44.github.io/The-Life-Aquatic-Quiz/",
+        "src": "assets/Code_Quiz.png",
+        "title": "Code Quiz"
+    },
+    {
+        "link": "https://dirk44.github.io/Slippery-Slopes/",
+        "src": "assets/slippery_slopes.png",
+        "title": "Slippery Slopes"
+    },
+    {
+        "link": "https://dirk44.github.io/Weather_Dashboard/",
+        "src": "assets/weatherDashboard.png",
+        "title": "Weather App"
+    },
+    {
+        "link": "https://dirk44.github.io/Slippery-Slopes/",
+        "src": "assets/password_gen.png",
+        "title": "Password Generator"
+    },
+    {
+        "link": "https://workout-dirk44.herokuapp.com/",
+        "src": "assets/fitness_tracker.png",
+        "title": "Fitness Tracker"
+    },
+    {
+        "link": "https://dirk44.github.io/Day-Planner/",
+        "src": "assets/day_planner.png",
+        "title": "Day Planner"
+    }
+]
