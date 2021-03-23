@@ -8,7 +8,7 @@ import linkedIn from "../Images/LinkedIn-Button.png";
 
 export default function AboutMe() {
     return (
-        <div className="body">
+        
             <Container fluid className="container">
 
                 <Row noGutters={true}>
@@ -66,6 +66,6 @@ export default function AboutMe() {
                     </Col>
                 </Row>
             </Container>
-        </div>
+       
     )
 }

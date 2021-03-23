@@ -11,7 +11,7 @@ export default function ContactMe() {
                 </Col>
             </Row>
 
-            <form action="newPage.html" method="get"></form>
+            <form action="newPage.html" method="get">
             <Row noGutters={true}>
                 <Col md="12" offset-md="1">
                     <h4>Name:</h4>
@@ -41,6 +41,7 @@ export default function ContactMe() {
                 </Col>
                 <input type="submit"></input>
             </Row>
+            </form>
         </Container>
     )
 }
