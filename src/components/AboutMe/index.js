@@ -60,7 +60,7 @@ export default function AboutMe() {
                     <Col lg={{ span: 7, offset: 4 }}>
                         <Card.Title>Professional Career</Card.Title>
                         <Card.Text className="text">I am a tile contractor. I own D Squared Custom Tile LLC. I have a few General Contractors I currently
-                        do work for. I am very Card.Texticky about how tile is done, and it shows in my work. I specialize in high
+                        do work for. I am very picky about how tile is done, and it shows in my work. I specialize in high
                     end, custom homes.</Card.Text>
 
                     </Col>
