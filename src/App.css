@@ -38,7 +38,12 @@
 }
 
 .body {
-  background-image: url("./Images/abstract-black-white-bokeh-background_1962-1324.jpg");
+  background-image: url("./components/Images/background.jpg");
   background-size: cover;
   
+}
+
+.port-img {
+  max-width: auto;
+  max-height: 150px;
 }

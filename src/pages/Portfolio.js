@@ -14,7 +14,7 @@ export default function Portfolio() {
                         <h1>Web Development Portfolio</h1>
                     </Col>
                 </Row>
-                <ul>
+                <Row>
                     {webProjects.map(web => {
                         return (
                             <PortfolioCard
@@ -25,7 +25,7 @@ export default function Portfolio() {
                             />
                         )
                     })}
-                </ul>
+                </Row>
             </Container>
 
             <Container>
@@ -34,7 +34,7 @@ export default function Portfolio() {
                         <h1>Tile Portfolio</h1>
                     </Col>
                 </Row>
-                <ul>
+                <Row>
                     {projectsTile.map(tile => {
                         return (
                             <PortfolioCard
@@ -45,7 +45,7 @@ export default function Portfolio() {
                             />
                         )
                     })}
-                </ul>
+                </Row>
             </Container>
         </>
     )

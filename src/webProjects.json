@@ -1,32 +1,32 @@
 [
     {
         "link": "https://dirk44.github.io/The-Life-Aquatic-Quiz/",
-        "src": "../Images/Code_Quiz.png",
+        "src": "https://res.cloudinary.com/dd3o5tlfw/image/upload/v1616442797/Code_Quiz_d7xghm.png",
         "title": "Code Quiz"
     },
     {
         "link": "https://dirk44.github.io/Slippery-Slopes/",
-        "src": "assets/slippery_slopes.png",
+        "src": "https://res.cloudinary.com/dd3o5tlfw/image/upload/v1616442798/slippery_slopes_imusrx.png",
         "title": "Slippery Slopes"
     },
     {
         "link": "https://dirk44.github.io/Weather_Dashboard/",
-        "src": "assets/weatherDashboard.png",
+        "src": "https://res.cloudinary.com/dd3o5tlfw/image/upload/v1616442804/weatherDashboard_xtux7e.png",
         "title": "Weather App"
     },
     {
         "link": "https://dirk44.github.io/Slippery-Slopes/",
-        "src": "assets/password_gen.png",
+        "src": "https://res.cloudinary.com/dd3o5tlfw/image/upload/v1616442797/password_gen_cgikh8.png",
         "title": "Password Generator"
     },
     {
         "link": "https://workout-dirk44.herokuapp.com/",
-        "src": "assets/fitness_tracker.png",
+        "src": "https://res.cloudinary.com/dd3o5tlfw/image/upload/v1616442797/fitness_tracker_z0a8j8.png",
         "title": "Fitness Tracker"
     },
     {
         "link": "https://dirk44.github.io/Day-Planner/",
-        "src": "assets/day_planner.png",
+        "src": "https://res.cloudinary.com/dd3o5tlfw/image/upload/v1616442797/day_planner_ls6kj7.png",
         "title": "Day Planner"
     }
 ]

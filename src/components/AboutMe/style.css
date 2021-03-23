@@ -1,7 +1,7 @@
 .img_instagram{
-    height: 80px;
+    height: 60px;
     width: auto;
-    flex-direction: row;
+    align-items: flex-end;
     }
 
     html{
@@ -25,3 +25,19 @@
     .row{
         justify-content: center;
     }
+
+    .logos.row{
+        justify-content: left;
+        
+        
+    }
+
+    h1{
+        border-bottom:2px solid white; width:96%;
+        margin-left: 20px;
+         }
+
+         .text {
+        margin-left: 20px;
+        font-size: 1.2em; 
+         }
