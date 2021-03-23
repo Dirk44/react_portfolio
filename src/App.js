@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import './App.css';
 import Navigate from "./components/Nav";
 import Footer from "./components/Footer";
@@ -10,7 +10,7 @@ import Contact from "./pages/Contact";
 
 function App() {
   return (
-    <Router>
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <div className="body">
         <Navigate/>
         <Container fluid>
@@ -25,7 +25,7 @@ function App() {
         </Container>
         <Footer />
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 

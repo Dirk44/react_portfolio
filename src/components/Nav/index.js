@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import { Navbar, Nav } from "react-bootstrap";
 
 
@@ -10,9 +11,9 @@ function Navigate() {
                 <Navbar.Toggle aria-controls="basic-navbarNav"/>
                 <Navbar.Collapse className='justify-content-end' id="basic-navbarNav">
                     <Nav>
-                        <Nav.Link href="/about">About Me</Nav.Link>
-                        <Nav.Link href="/portfolio">Portfolio</Nav.Link>
-                        <Nav.Link href="/contact">Contact</Nav.Link>
+                        <Link className="nav-link dark" to="/">About Me</Link>
+                        <Link className="nav-link dark" to="/portfolio">Portfolio</Link>
+                        <Link className="nav-link dark" to="/contact">Contact</Link>
                     </Nav>
                 </Navbar.Collapse >
             </Navbar>
