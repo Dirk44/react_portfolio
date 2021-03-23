@@ -10,7 +10,7 @@ export default function Portfolio() {
         <>
             <Container>
                 <Row>
-                    <Col md={12}>
+                    <Col md="12">
                         <h1>Web Development Portfolio</h1>
                     </Col>
                 </Row>
@@ -30,7 +30,7 @@ export default function Portfolio() {
 
             <Container>
                 <Row>
-                    <Col md={12}>
+                    <Col md="12">
                         <h1>Tile Portfolio</h1>
                     </Col>
                 </Row>

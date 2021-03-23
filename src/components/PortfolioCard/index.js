@@ -8,7 +8,7 @@ export default function PortfolioCard(props) {
     //     marginLeft: "5px"
     // }
     return (
-        <Col md={4} style={{padding: "5px"}}>
+        <Col md="4" style={{padding: "5px"}}>
             <a href={props.link}><img className="port-img" src={props.img} alt={props.title}/></a>
           <p>{props.title}</p>
         </Col>

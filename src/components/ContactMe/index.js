@@ -6,14 +6,14 @@ export default function ContactMe() {
     return (
         <Container>
             <Row no-gutters={true}>
-                <Col md={12}>
+                <Col md="12">
                     <h1>Contact</h1>
                 </Col>
             </Row>
 
             <form action="newPage.html" method="get"></form>
             <Row noGutters={true}>
-                <Col md={12} offset-md={1}>
+                <Col md="12" offset-md="1">
                     <h4>Name:</h4>
                     <label for="Name"></label>
                     <input type="text" id="name" name="userName" placeholder="Name:"></input>
@@ -21,7 +21,7 @@ export default function ContactMe() {
             </Row>
             <Row noGutters={true}>
 
-                <Col md={12} offset-md={1}>
+                <Col md="12" offset-md="1">
                     <h4>Email:</h4>
                     <label for="email"></label>
                     <input type="text" id="name" name="email" placeholder="Email:"></input>
@@ -29,7 +29,7 @@ export default function ContactMe() {
             </Row>
 
             <Row noGutters={true}>
-                <Col md={12} offset-md={1}>
+                <Col md="12" offset-md="1">
                     <h4>Message:</h4>
                     <label for="message"></label>
                     <textarea id="message" name="message" rows="4" cols="40" placeholder="Message:"></textarea>
@@ -37,7 +37,7 @@ export default function ContactMe() {
             </Row>
 
             <Row noGutters={true}>
-                <Col md={12}>
+                <Col md="12">
                 </Col>
                 <input type="submit"></input>
             </Row>
