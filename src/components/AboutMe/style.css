@@ -1,7 +1,11 @@
 .img_instagram{
     height: 60px;
+    margin-left: 2.5em;
+    margin-top: 3em;
     width: auto;
     align-items: flex-end;
+    filter: drop-shadow(7px 7px 7px #000000);
+
     }
 
     html{
@@ -11,15 +15,22 @@
     }
 
     .container{
-    
-    background-color: rgb(66, 66, 66);
-    color: white;
-    margin-left: 40px;
-    margin-top: 50px;
-    margin-bottom: 85px;
-    content: inherit;
-    height: 80%;
-    width: 75%;
+        background-color: rgb(66, 66, 66);
+        color: white;
+        margin-left: 40px;
+        margin-top: 50px;
+        margin-bottom: 85px;
+        content: inherit;
+        height: 80%;
+        width: 75%;
+        border-radius: 10px;
+    /* -webkit-filter: drop-shadow(20px 20px 20px #1f1d1d/); */
+        filter: drop-shadow(20px 20px 20px #1f1d1d);
+    }
+
+    .card-img {
+        filter: drop-shadow(10px 10px 10px #000000);
+
     }
 
     .row{
@@ -36,7 +47,14 @@
         margin-left: 20px;
          }
 
-         .text {
+    .text {
         margin-left: 20px;
         font-size: 1.2em; 
+        overflow: auto;
+         }
+
+    .pro {
+        margin-bottom: 30px;
+        margin-left: 100px;
+        padding:0px 0px 15px 30px;
          }

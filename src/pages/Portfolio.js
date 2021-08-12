@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import PortfolioCard from "../components/PortfolioCard";
 import { Container, Row, Col } from "react-bootstrap";
 import webProjects from "../webProjects.json";

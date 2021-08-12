@@ -26,7 +26,7 @@ export default function AboutMe() {
 
                             <Card.Text className="text">I was born in Lincoln City, Oregon. I am the second youngest out of 6 kids. I mostly grew
                             up in a small farm town in central Idaho, and all over Utah. I currently live in Asheville,
-                            North Carolina with my girlfriend Ashley, and our 2 year old son named Aeson. I enjoy
+                            North Carolina with my girlfriend Ashley, and our 2 1/2 year old son named Aeson. I enjoy
                         movies, learning to code, MMA, and the occasional video game.</Card.Text>
 
                             
@@ -37,7 +37,7 @@ export default function AboutMe() {
                     </Col>
                 </Row>
 
-                <Row noGutters={true} className="logos">
+                <Row className="logos">
                                 <Col md="1" className="logo">
                                     <Nav.Link href="https://www.instagram.com/derrickd44/?hl=en" target="_blank">
                                         <img className="img_instagram" src={insta} alt="Instagram logo" />
@@ -57,7 +57,7 @@ export default function AboutMe() {
                                 </Col>
                             
 
-                    <Col lg={{ span: 7, offset: 4 }}>
+                    <Col className="pro">
                         <Card.Title>Professional Career</Card.Title>
                         <Card.Text className="text">I am a tile contractor. I own D Squared Custom Tile LLC. I have a few General Contractors I currently
                         do work for. I am very picky about how tile is done, and it shows in my work. I specialize in high
