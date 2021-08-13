@@ -38,23 +38,28 @@ export default function AboutMe() {
                 </Row>
 
                 <Row className="logos">
-                                <Col md="1" className="logo">
-                                    <Nav.Link href="https://www.instagram.com/derrickd44/?hl=en" target="_blank">
-                                        <img className="img_instagram" src={insta} alt="Instagram logo" />
+                                <Col md="3" className="logo">
+                                    <Nav.Link className="logos" href="https://www.instagram.com/derrickd44/?hl=en" target="_blank">                                       
+                                    <img className="img_instagram" src={insta} alt="Instagram logo" />
                                     </Nav.Link>
-                                </Col>
-
-                                <Col md="1" className="logo">
-                                    <Nav.Link href="https://github.com/Dirk44" target="_blank">
+                                    
+                                    <Nav.Link className="logos" href="https://github.com/Dirk44" target="_blank">
                                         <img className="img_instagram" src={git} alt="Github logo" />
                                     </Nav.Link>
+
+                                    <Nav.Link className="logos" href="https://www.linkedin.com/in/derrick-devilliers-42bb471b3/" target="_blank">
+                                        <img className="img_instagram" src={linkedIn} alt="Linkdin logo" />
+                                    </Nav.Link>
+                                    
+                                </Col>
+
+                                {/* <Col md="1" className="logo">
+                                    
                                 </Col>
 
                                 <Col md="1" className="logo">
-                                    <Nav.Link href="https://www.linkedin.com/in/derrick-devilliers-42bb471b3/" target="_blank">
-                                        <img className="img_instagram" src={linkedIn} alt="Linkdin logo" />
-                                    </Nav.Link>
-                                </Col>
+                                    
+                                </Col> */}
                             
 
                     <Col className="pro">
