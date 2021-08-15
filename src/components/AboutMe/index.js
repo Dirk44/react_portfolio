@@ -11,12 +11,12 @@ export default function AboutMe() {
         
             <Container fluid className="container">
 
-                <Row noGutters={true}>
+                <Row noGutters={"true"}>
                     <Col md="12">
                         <h1>About Me</h1>
                     </Col>
                 </Row>
-                <Row noGutters={true}>
+                <Row noGutters={"true"}>
                     <Col md="4">
                         <img src={img} className="card-img" alt="Derrick,Ashley and Aeson" />
                     </Col>
